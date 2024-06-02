@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Uma criação com IA generativa
 
 ## 📒 Descrição
-Meu projeto foi feito pensando em criar uma descrição de um produto a venda para um mercado saúdavel
+Meu projeto foi feito pensando em criar um site em que seja vendido sucos naturais, com descrição de um produto a venda para um mercado saúdavel e sujestões de uso e acompanhmentos.
 
 ## 🤖 Tecnologias Utilizadas
 Para fazer este projeto o chatGPT foi utilizado
 
 ## 🧐 Processo de Criação
-O processo de criação deste projeto foi inicializado pensando no que entregar. Após isso pensei em um produto fácil de comercializar mas que precise de uma boa descrição, então utilizei a ajuda do chatGPT para faezr esta parte.
+O processo de criação deste projeto foi inicializado pensando no que entregar de uma forma prática e simples. Após o início, pensei em um produto fácil de comercializar mas que precise de uma boa descrição, então utilizei a ajuda do chatGPT para faezr esta parte.
 
 ## 🚀 Resultados
 Como resultados eu obtive o desejável. Pedi ao chatGPT que me fornecesse o que foi solicitado e pedindo algumas modificações confome o necessário
