@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uma criação com IA generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto foi feito pensando em criar uma descrição de um produto a venda para um mercado saúdavel
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para fazer este projeto o chatGPT foi utilizado
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação deste projeto foi inicializado pensando no que entregar. Após isso pensei em um produto fácil de comercializar mas que precise de uma boa descrição, então utilizei a ajuda do chatGPT para faezr esta parte.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultados eu obtive o desejável. Pedi ao chatGPT que me fornecesse o que foi solicitado e pedindo algumas modificações confome o necessário
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA é uma ótima ferramenta de auxilio para projetos e atividades do dia-a-dia e projetos mais sofisticados, na medida certa ela é uma ótima opção.
 ```
 
 ### Exemplos e Insigths
